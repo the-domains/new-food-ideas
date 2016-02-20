@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[New Food Ideas!]]></title>
-        <description><![CDATA[New Food Ideas!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[new food ideas]]></title>
+        <description><![CDATA[new food ideas]]></description>
+        <link>https://thegrid.ai/new-food-ideas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 07:14:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 07:30:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/new-food-ideas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/acfc7318-2dea-4060-925d-7df52a937ed8.JPG">]]></description>
+            <link>https://thegrid.ai/new-food-ideas/bdf53d12-7b16-4aca-8664-329d6473ed58/index.html</link>
+            <guid isPermaLink="false">bdf53d12-7b16-4aca-8664-329d6473ed58</guid>
+            <pubDate>Sat, 20 Feb 2016 07:30:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to New Food Ideas! A place where your world will be expand and your tastebuds will be transformed!</p>]]></description>
-            <link>undefined330a9dce-77b2-4b6d-9a64-91011483eba8/index.html</link>
+            <link>https://thegrid.ai/new-food-ideas/330a9dce-77b2-4b6d-9a64-91011483eba8/index.html</link>
             <guid isPermaLink="false">330a9dce-77b2-4b6d-9a64-91011483eba8</guid>
             <pubDate>Sat, 20 Feb 2016 07:14:32 GMT</pubDate>
         </item>
