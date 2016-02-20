@@ -1,14 +1,29 @@
+name: 'New Food Ideas!'
+favicon: null
 layout_spectrum: 0.318738
 typography_spectrum: 0.6105063
+title: new food ideas
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9397519
-  lightness: 0.2832413
-  brandStrength: 0.5448028
   brandColors:
     - '#4B413A'
     - '#201D17'
     - '#F0E0C7'
     - '#912F1F'
     - '#B4A391'
+  brandStrength: 0.5448028
+  lightness: 0.2832413
+  saturation: 0.9397519
   rhythmicContrast: 0.6367672
-name: 'New Food Ideas!'
+purpose: []
