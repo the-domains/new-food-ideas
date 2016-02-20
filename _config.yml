@@ -1,0 +1,14 @@
+layout_spectrum: 0.318738
+typography_spectrum: 0.6105063
+color:
+  saturation: 0.9397519
+  lightness: 0.2832413
+  brandStrength: 0.5448028
+  brandColors:
+    - '#4B413A'
+    - '#201D17'
+    - '#F0E0C7'
+    - '#912F1F'
+    - '#B4A391'
+  rhythmicContrast: 0.6367672
+name: 'New Food Ideas!'
